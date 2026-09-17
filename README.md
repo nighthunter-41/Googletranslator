@@ -214,3 +214,6 @@ GoogleTranslator is offered as a full free version, with all features and update
 ---
 
 Take your conversations to the next level with GoogleTranslator. **Download it now and communicate without limits!**
+
+---
+**Last updated:** 2026-09-17 10:31:14 UTC
